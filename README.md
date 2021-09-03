@@ -56,3 +56,5 @@ Accepts a filename as argument and prints out the sorted content of that file. F
 SS64 (2021) An A-Z Index of the Linux command line: bash + utilities. Available at: https://ss64.com/bash/ (Accessed: 3 September 2021)
 
 Steele, C. (2021) The Linux Command Line Bootcamp: Beginner To Power User. Available at: https://www.udemy.com/course/the-linux-command-line-bootcamp/ (Accessed: 3 September 2021)
+
+University of Warwick (2018) Basics of the Command Line. Available at: https://warwick.ac.uk/research/rtp/sc/rse/training/linuxdesktop/basiccommandline/ (Accessed: 3 September 2021)
