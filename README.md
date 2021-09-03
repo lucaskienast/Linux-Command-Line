@@ -23,7 +23,7 @@ When we open our terminal, we will see our prompt which will likely include your
 
 ## Basic Commands
 
-## Command Structure `command -options arguments`
+### Command Structure `command -options arguments`
 Most commands support multiple options that modidy their behavior.
 
 ### `clear`
