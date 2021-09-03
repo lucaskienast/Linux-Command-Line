@@ -53,6 +53,8 @@ Accepts a filename as argument and prints out the sorted content of that file. F
 
 ## References
 
+Devconnected (2021) How To Count Files in Directory on Linux. Available at: https://devconnected.com/how-to-count-files-in-directory-on-linux/ (Accessed: 3 September 2021)
+
 SS64 (2021) An A-Z Index of the Linux command line: bash + utilities. Available at: https://ss64.com/bash/ (Accessed: 3 September 2021)
 
 Steele, C. (2021) The Linux Command Line Bootcamp: Beginner To Power User. Available at: https://www.udemy.com/course/the-linux-command-line-bootcamp/ (Accessed: 3 September 2021)
