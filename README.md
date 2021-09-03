@@ -21,6 +21,9 @@ On most Linux-based systems, the default shell program is "bash". There are many
 ### Prompt
 When we open our terminal, we will see our prompt which will likely include your `username@machinename~$`. This prompt is what we will see whenever the shell is ready to accept new input.
 
+### Argument / Parameter
+The terms "argument" and "parameter" are often used interchangeably to refer to values that we provide to commands.
+
 ## Basic Commands
 
 ### Command Structure `command -options arguments`
@@ -37,6 +40,9 @@ Shows current date.
 
 ### `ncal`
 Shows the current month's calendar (Stands for "new calendar") if left alone. There is also a `cal` command that does almost the same thing, but `ncal` adds more functionalities. If the command is accompanied by an argument (e.g. 2021 or july 1994), it will print out the calendar for the specified argument(s).
+
+### `sort`
+Accepts a filename as argument and prints out the sorted content of that file. For example, `sort file.txt` prints out each line of the file.txt file, sorted in alphabetical order.
 
 ## References
 Steele, C. (2021) The Linux Command Line Bootcamp: Beginner To Power User. Available at: https://www.udemy.com/course/the-linux-command-line-bootcamp/ (Accessed: 3 September 2021)
