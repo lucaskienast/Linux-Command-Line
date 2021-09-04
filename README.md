@@ -62,3 +62,5 @@ SS64 (2021) An A-Z Index of the Linux command line: bash + utilities. Available 
 Steele, C. (2021) The Linux Command Line Bootcamp: Beginner To Power User. Available at: https://www.udemy.com/course/the-linux-command-line-bootcamp/ (Accessed: 3 September 2021)
 
 University of Warwick (2018) Basics of the Command Line. Available at: https://warwick.ac.uk/research/rtp/sc/rse/training/linuxdesktop/basiccommandline/ (Accessed: 3 September 2021)
+
+Wikipedia (2021) Filename. Available at: https://en.wikipedia.org/wiki/Filename (Accessed: 4 September 2021)
