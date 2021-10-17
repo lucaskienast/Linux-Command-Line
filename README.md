@@ -31,6 +31,13 @@ Some options require us to pass in an additional value. For example, `ncal`'s `-
 ## Command Structure `command -options arguments`
 Most commands support multiple options that modidy their behavior.
 
+## Git
+Git is officially defined as a distributed version control system (VCS). In other words, it's a system that tracks changes to our project files over time. It enables us to record project changes and go back to a specific version of the tracked files, at any given point in time.  This system can be used by many people to efficiently work together and collaborate on team projects, where each developer can have their own version of the project, distributed on their computer. Later on, these individual versions of the project can be merged and adapted into the main version of the project.
+
+Introduction: https://www.notion.so/zarkom/Introduction-to-Git-ac396a0697704709a12b6a0e545db049
+
+Documentation: https://git-scm.com/doc
+
 ## References
 
 Devconnected (2021) How To Count Files in Directory on Linux. Available at: https://devconnected.com/how-to-count-files-in-directory-on-linux/ (Accessed: 3 September 2021)
